@@ -1,0 +1,18 @@
+import turtle 
+#turtle.fd(300)
+#turtle.right(140)
+#turtle.fd(300)
+#turtle.right(140)
+#turtle.fd(400)
+#turtle.right(150)
+#turtle.fd(420)
+#turtle.right(138)
+#2
+turtle.fd(50)
+turtle.right(90)
+turtle.fd(50)
+turtle.right(35)
+turtle.fd(50)
+turtle.right(125)
+turtle.fd(50)
+turtle.goto(0,0)
